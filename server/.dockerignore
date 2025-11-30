@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.env
+.git
+```
+
+### For `client/.dockerignore`:
+
+1. Go to your `client/` folder
+2. Create a new file called `.dockerignore`
+3. Put this inside:
+```
+node_modules
+npm-debug.log
+build
+.git
