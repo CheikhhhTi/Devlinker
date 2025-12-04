@@ -1,6 +1,6 @@
 # DevLinker
 
-A full-stack developer-matching platform built with **React**, **Node.js**, **Docker**, and **CI/CD**. This project is designed to help you learn modern DevOps practices while building a real, production-ready application.
+A full-stack developer-matching platform built with **React**, **Node.js**, **Docker**, and **CI/CD**. This project is designed to help me learn modern DevOps practices while building a real, production-ready application.
 
 ---
 
